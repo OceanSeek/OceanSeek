@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OceanSeek
 - 👀 I’m interested in colding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on lot
 - 📫 How to reach me 314245565@qq.com
 
 <!---
